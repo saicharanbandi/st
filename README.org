@@ -7,13 +7,12 @@ suckless st fork custom maintained
   - Sel-paste (C-Y)
   - Zoom-In/Out/Reset (C-(+/-/0))
   - left the copy with the default (C-S)
+** ToDos
+*** TODO emacs & mouse scrolling behaviour [idea here is to avoid using tmux]
+*** TODO emacs previous/next command behaviour
+*** TODO fuzzy the search previous commands using fzf
 
-* ToDos
-** TODO emacs & mouse scrolling behaviour [idea here is to avoid using tmux]
-** TODO emacs previous/next command behaviour
-** TODO fuzzy the search previous commands using fzf
-
-[DEFAULt]
+* Default ReadMe
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
